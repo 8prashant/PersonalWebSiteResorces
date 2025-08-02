@@ -1,0 +1,43 @@
+{
+    "about": {
+      "name": "Prashant Kumar Rai",
+      "title": "Software Developer",
+      "image": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/pic0.png",
+      "experience": {
+        "label": "Years of Experience",
+        "startDate": "2025-02-03"
+      },
+      "summary": [
+        "I am currently working as a Technical Intern at Siemens Healthineers, gaining hands-on experience in cutting-edge technologies. I am pursuing B.Tech in CSE from VIT Bhopal University, with a CGPA of 8.72. I have strong interests in backend, cloud computing, and blockchain.",
+        "During my internship at RDSO, I implemented RBAC using Django for 200+ users. I’ve also built projects on blockchain-based crowdfunding and housing for army personnel.",
+        "I'm skilled in React, Node.js, Django, Web3, and AWS. I'm an AWS Cloud Practitioner and have solved 900+ coding challenges on LeetCode and Codeforces."
+      ],
+      "education": [
+        {
+          "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/vitlogo.webp",
+          "logoAlt": "VIT Logo",
+          "degree": "B.Tech in Computer Science and Engineering",
+          "institution": "Vellore Institute Of Technology, Bhopal, Madhya Pradesh",
+          "graduation": "Expected Graduation: 2025",
+          "score": "CGPA: 8.72"
+        },
+        {
+          "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/apslogo.png",
+          "logoAlt": "Army Public School Logo",
+          "degree": "Class XII",
+          "institution": "Army Public School, Ambala Cantt, Haryana",
+          "graduation": "Year: 2021",
+          "score": "Percentage: 94.4%"
+        },
+        {
+          "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/apslogo.png",
+          "logoAlt": "Army Public School Logo",
+          "degree": "Class X",
+          "institution": "Army Public School, Ambala Cantt, Haryana",
+          "graduation": "Year: 2019",
+          "score": "Percentage: 92.67%"
+        }
+      ]
+    }
+  }
+  
