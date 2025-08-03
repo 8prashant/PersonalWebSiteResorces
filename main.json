@@ -1,43 +1,94 @@
 {
-    "about": {
-      "name": "Prashant Kumar Rai",
-      "title": "Software Developer",
-      "image": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/pic0.png",
-      "experience": {
-        "label": "Years of Experience",
-        "startDate": "2025-02-03"
+  "about": {
+    "name": "Prashant Kumar Rai",
+    "title": "Software Developer",
+    "image": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/pic0.png",
+    "experience": {
+      "label": "Years of Experience",
+      "startDate": "2025-02-03"
+    },
+    "summary": [
+      "I am currently working at Siemens Healthineers, gaining hands-on experience in cutting-edge technologies. I am pursuing B.Tech in CSE from VIT Bhopal University, with a CGPA of 8.72. I have strong interests in backend, cloud computing, and blockchain.",
+      "During my internship at RDSO, I implemented RBAC using Django for 200+ users. I’ve also built projects on blockchain-based crowdfunding and housing for army personnel.",
+      "I'm skilled in React, Node.js, Django, Web3, and AWS. I'm an AWS Cloud Practitioner and have solved 900+ coding challenges on LeetCode and Codeforces."
+    ],
+    "education": [
+      {
+        "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/vitlogo.webp",
+        "logoAlt": "VIT Logo",
+        "degree": "B.Tech in Computer Science and Engineering",
+        "institution": "Vellore Institute Of Technology, Bhopal, Madhya Pradesh",
+        "graduation": "Expected Graduation: 2025",
+        "score": "CGPA: 8.72"
       },
-      "summary": [
-        "I am currently working at Siemens Healthineers, gaining hands-on experience in cutting-edge technologies. I am pursuing B.Tech in CSE from VIT Bhopal University, with a CGPA of 8.72. I have strong interests in backend, cloud computing, and blockchain.",
-        "During my internship at RDSO, I implemented RBAC using Django for 200+ users. I’ve also built projects on blockchain-based crowdfunding and housing for army personnel.",
-        "I'm skilled in React, Node.js, Django, Web3, and AWS. I'm an AWS Cloud Practitioner and have solved 900+ coding challenges on LeetCode and Codeforces."
-      ],
-      "education": [
+      {
+        "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/apslogo.png",
+        "logoAlt": "Army Public School Logo",
+        "degree": "Class XII",
+        "institution": "Army Public School, Ambala Cantt, Haryana",
+        "graduation": "Year: 2021",
+        "score": "Percentage: 94.4%"
+      },
+      {
+        "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/apslogo.png",
+        "logoAlt": "Army Public School Logo",
+        "degree": "Class X",
+        "institution": "Army Public School, Ambala Cantt, Haryana",
+        "graduation": "Year: 2019",
+        "score": "Percentage: 92.67%"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Siemens Healthineers",
+      "location": "Bengaluru, Karnataka, India",
+      "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/siemens-logo.png",
+      "roles": [
         {
-          "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/vitlogo.webp",
-          "logoAlt": "VIT Logo",
-          "degree": "B.Tech in Computer Science and Engineering",
-          "institution": "Vellore Institute Of Technology, Bhopal, Madhya Pradesh",
-          "graduation": "Expected Graduation: 2025",
-          "score": "CGPA: 8.72"
+          "title": "Graduate Trainee Engineer",
+          "date": "May 2025 - Present",
+          "fullDetail": [
+            "Currently working under Magnetic Resonance – Platforms – Internal Development Platform.",
+            "Enhancing CI/CD workflows using Azure DevOps to streamline software delivery.",
+            "Managing containerized applications with Docker and Kubernetes.",
+            "Leveraging PowerShell and YAML to automate configurations.",
+            "Collaborating across teams to implement DevOps best practices.",
+            "Technologies Used: C#, Azure DevOps Server, Git, Docker, Kubernetes, PowerShell, YAML."
+          ]
         },
         {
-          "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/apslogo.png",
-          "logoAlt": "Army Public School Logo",
-          "degree": "Class XII",
-          "institution": "Army Public School, Ambala Cantt, Haryana",
-          "graduation": "Year: 2021",
-          "score": "Percentage: 94.4%"
-        },
+          "title": "Technical Intern",
+          "date": "Feb 2025 - May 2025",
+          "fullDetail": [
+            "Focused on production monitoring using Elastic Stack.",
+            "Configured pipelines for VMs, containers, and URLs.",
+            "Customized Filebeat/Metricbeat and developed PowerShell-based custom Beats.",
+            "Worked on CI/CD pipelines and real-time IDP monitoring tools.",
+            "Technologies Used: Elastic Stack, PowerShell, Docker, CI/CD, Virtual Machines, C#."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Research Designs and Standards Organization (RDSO)",
+      "location": "Lucknow, Uttar Pradesh",
+      "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/rdso_log.png",
+      "roles": [
         {
-          "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/apslogo.png",
-          "logoAlt": "Army Public School Logo",
-          "degree": "Class X",
-          "institution": "Army Public School, Ambala Cantt, Haryana",
-          "graduation": "Year: 2019",
-          "score": "Percentage: 92.67%"
+          "title": "Software Development Engineer Intern",
+          "date": "Jan 2024 - Mar 2024",
+          "fullDetail": [
+            "Integrated Django’s RBAC into admin system for 200+ users.",
+            "Developed role assignment matrix and role management UI.",
+            "Implemented automated testing for RBAC.",
+            "Led training sessions for transition and onboarding.",
+            "Built scalable permission system reducing audit time.",
+            "Technologies Used: HTML/CSS, JavaScript, Django, PostgreSQL.",
+            "Reported to: Mr. Anubhav Agrawal (Director, RDSO)"
+          ]
         }
       ]
     }
-  }
-  
+  ]
+}
