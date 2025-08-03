@@ -114,5 +114,43 @@
         }
       ]
     }
+  ],
+  "certifications": [
+    {
+      "title": "NPTEL Cloud Computing",
+      "date": "April 2024",
+      "icon": "fas fa-cloud",
+      "link": "https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs17/Course/NPTEL24CS17S35290324530638040.pdf"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "date": "Valid: Feb 2024 - Feb 2027",
+      "icon": "fab fa-aws",
+      "link": "https://www.credly.com/badges/660bc6ec-0ba3-4259-82c0-ea89e8fcf159"
+    },
+    {
+      "title": "Algorithms on Graphs",
+      "date": "Coursera - January 2023",
+      "icon": "fas fa-project-diagram",
+      "link": "https://coursera.org/share/489abc9eccf74769730484197fb26ebc"
+    },
+    {
+      "title": "Data Structures",
+      "date": "Coursera - January 2023",
+      "icon": "fas fa-database",
+      "link": "https://coursera.org/share/62c5178a85dcb86551122624d61db0e8"
+    },
+    {
+      "title": "Django Application Development with SQL and Databases",
+      "date": "Coursera - January 2023",
+      "icon": "fas fa-server",
+      "link": "https://coursera.org/share/1d053ebbe720aff4a951b2141042e496"
+    },
+    {
+      "title": "The Bits and Bytes of Computer Networking",
+      "date": "Coursera - December 2022",
+      "icon": "fas fa-network-wired",
+      "link": "https://www.coursera.org/account/accomplishments/verify/WCWWUDRD6EAJ"
+    }
   ]
 }
