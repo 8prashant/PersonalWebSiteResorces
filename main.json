@@ -44,48 +44,72 @@
       "company": "Siemens Healthineers",
       "location": "Bengaluru, Karnataka, India",
       "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/siemens-logo.png",
+      "startDate": "2025-02-03",
       "roles": [
         {
           "title": "Graduate Trainee Engineer",
-          "date": "May 2025 - Present",
-          "fullDetail": [
-            "Currently working under Magnetic Resonance – Platforms – Internal Development Platform.",
+          "duration": "May 2025 - Present",
+          "shortDescription": "Currently working under Magnetic Resonance – Platforms – Internal Development Platform. My role involves:",
+          "points": [
             "Enhancing CI/CD workflows using Azure DevOps to streamline software delivery.",
-            "Managing containerized applications with Docker and Kubernetes.",
-            "Leveraging PowerShell and YAML to automate configurations.",
-            "Collaborating across teams to implement DevOps best practices.",
-            "Technologies Used: C#, Azure DevOps Server, Git, Docker, Kubernetes, PowerShell, YAML."
+            "Managing containerized applications with Docker and Kubernetes for efficient orchestration.",
+            "Leveraging PowerShell and YAML to automate configurations and operational tasks.",
+            "Collaborating with cross-functional teams to drive DevOps best practices and ensure delivery reliability."
+          ],
+          "technologies": [
+            "C#",
+            "Azure DevOps Server",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "PowerShell",
+            "YAML"
           ]
         },
         {
           "title": "Technical Intern",
-          "date": "Feb 2025 - May 2025",
-          "fullDetail": [
-            "Focused on production monitoring using Elastic Stack.",
-            "Configured pipelines for VMs, containers, and URLs.",
-            "Customized Filebeat/Metricbeat and developed PowerShell-based custom Beats.",
-            "Worked on CI/CD pipelines and real-time IDP monitoring tools.",
-            "Technologies Used: Elastic Stack, PowerShell, Docker, CI/CD, Virtual Machines, C#."
+          "duration": "Feb 2025 – May 2025",
+          "shortDescription": "During my internship, I focused on monitoring aspects of production environments. Key contributions include:",
+          "points": [
+            "Developed and configured monitoring pipelines for VMs, Docker containers, and critical URLs using Elastic Stack.",
+            "Customized Beats (e.g., Filebeat, Metricbeat) and built PowerShell-based custom Beats for data collection.",
+            "Worked on CI/CD pipelines, integrated alerts, and contributed to improving monitoring workflows.",
+            "Maintained and enhanced IDP C# applications for real-time FITS system monitoring."
+          ],
+          "technologies": [
+            "Elastic Stack",
+            "PowerShell",
+            "Docker",
+            "CI/CD",
+            "Virtual Machines",
+            "C#"
           ]
         }
       ]
     },
     {
-      "company": "Research Designs and Standards Organization (RDSO)",
-      "location": "Lucknow, Uttar Pradesh",
+      "company": "RDSO (Research Designs and Standards Organization)",
+      "location": "Lucknow, Uttar Pradesh, India",
       "logo": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/rdso_log.png",
+      "startDate": "2024-01-24",
       "roles": [
         {
-          "title": "Software Development Engineer Intern",
-          "date": "Jan 2024 - Mar 2024",
-          "fullDetail": [
-            "Integrated Django’s RBAC into admin system for 200+ users.",
-            "Developed role assignment matrix and role management UI.",
-            "Implemented automated testing for RBAC.",
-            "Led training sessions for transition and onboarding.",
-            "Built scalable permission system reducing audit time.",
-            "Technologies Used: HTML/CSS, JavaScript, Django, PostgreSQL.",
-            "Reported to: Mr. Anubhav Agrawal (Director, RDSO)"
+          "title": "Software Developer Intern",
+          "duration": "Jan 2024 – Mar 2024",
+          "shortDescription": "I collaborated with a group of 5 to integrate Django’s RBAC into RDSO’s admin system for 200+ users. My contributions included:",
+          "points": [
+            "Developed a role assignment matrix to improve access control security.",
+            "Designed a user-friendly role management interface for faster adoption.",
+            "Implemented automated testing to ensure RBAC feature reliability.",
+            "Led training sessions for smooth system transition and user onboarding.",
+            "Built a scalable permission assignment system that reduced audit time from weeks to days."
+          ],
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Django (Python)",
+            "PostgreSQL"
           ]
         }
       ]
