@@ -1,4 +1,20 @@
 {
+  "intro": {
+    "greeting": "Hello",
+    "name": "Prashant Kumar Rai",
+    "roles": [
+      "Software Developer.",
+      "DevOps Engineer.",
+      "Web Developer.",
+      "Backend Developer.",
+      "Freelancer.",
+      "Cloud Enthusiast."
+    ],
+    "description": "An Ambitious Professional Prepared to Embrace New Challenges and Opportunities.",
+    "buttonText": "View Portfolio",
+    "desktopImage": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/pic6.png",
+    "mobileImage": "https://raw.githubusercontent.com/8prashant/PersonalWebSiteResorces/main/Icons/pic7.png"
+  },
   "about": {
     "name": "Prashant Kumar Rai",
     "title": "Software Developer",
