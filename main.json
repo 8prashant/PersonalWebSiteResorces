@@ -1,4 +1,32 @@
 {
+  "navbar": {
+    "socials": [
+      {
+        "platform": "instagram",
+        "icon": "fa-instagram",
+        "href": "https://instagram.com/yourprofile"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "fa-linkedin-in",
+        "href": "https://linkedin.com/in/yourprofile"
+      },
+      {
+        "platform": "twitter",
+        "icon": "fa-twitter",
+        "href": "https://twitter.com/yourprofile"
+      },
+      {
+        "platform": "facebook",
+        "icon": "fa-facebook-f",
+        "href": "https://facebook.com/yourprofile"
+      }
+    ],
+    "resume": {
+      "label": "Resume",
+      "link": "https://drive.google.com/file/d/1053GPFcRuTRPm2wSwoRZ6kieZlv5Dp9Z/view?usp=sharing"
+    }
+  },
   "intro": {
     "greeting": "Hello",
     "name": "Prashant Kumar Rai",
