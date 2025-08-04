@@ -54,9 +54,7 @@
     "summary": [
       "I am currently working as a Software Engineer at Siemens Healthineers in the Magnetic Resonance – Platforms – Internal Development Platform team. My work involves contributing to the internal tooling and platform capabilities that support advanced MRI system development. I bring strong software engineering fundamentals and a deep interest in backend systems and platform engineering.",
       "I hold a B.Tech degree in Computer Science and Engineering from VIT Bhopal University, where I graduated with a CGPA of 8.76. Throughout my academic journey, I consistently engaged in hands-on learning, participating in multiple research-oriented and real-world projects to build scalable software solutions.",
-      "During my internship at RDSO (Research Designs and Standards Organization), I successfully developed and integrated a role-based access control (RBAC) system using Django for over 200 users within the organization. This system improved security, simplified audits, and provided a scalable approach to managing user privileges across departments.",
-      "I have a strong command of modern web development and backend technologies including React, Node.js, Express, Django, and MongoDB, as well as hands-on experience with Web3 and Ethereum-based smart contracts. I am an AWS Certified Cloud Practitioner, familiar with core cloud services and deployment strategies.",
-      "Beyond academics and work, I am passionate about solving complex algorithmic problems and have tackled over 900 coding challenges across LeetCode and Codeforces. This problem-solving mindset has helped me develop strong logical reasoning and optimization skills, which I apply in both development and debugging tasks."
+      "During my internship at RDSO (Research Designs and Standards Organization), I successfully developed and integrated a role-based access control (RBAC) system using Django for over 200 users within the organization. This system improved security, simplified audits, and provided a scalable approach to managing user privileges across departments."
     ],
     "education": [
       {
